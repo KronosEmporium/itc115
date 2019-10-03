@@ -1,5 +1,3 @@
-package itc115;
-
 class fibonacci {
 	
 	// fib function returns Fibonaaci number for given
